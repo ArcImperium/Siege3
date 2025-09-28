@@ -1,0 +1,33 @@
+.homebutton {
+  font-size: 30px;
+  padding: 4px;
+  margin: 20px;
+  width: 200px;
+  border-radius: 0px;
+  border: 6px solid black;
+  background-color: #242424;
+  color: white;
+}
+
+.title {
+  border: 6px solid black;
+  background-color: #242424;
+  color: white;
+}
+
+.managerbutton {
+  font-size: 18px;
+  padding: 2px;
+  margin: 10px;
+  width: 200px;
+  height: 40px;
+  border-radius: 0px;
+  border: 4px solid black;
+  background-color: #242424;
+  color: white;
+}
+
+.managerAction {
+  background-color: #242424;
+  color: white;
+}

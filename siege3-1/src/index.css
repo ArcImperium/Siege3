@@ -1,0 +1,18 @@
+:root {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+  background-color: slategray;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+button:hover {
+  border-color: darkgreen;
+  cursor: pointer;
+}
+
+h1:hover {
+  cursor: not-allowed;
+}
